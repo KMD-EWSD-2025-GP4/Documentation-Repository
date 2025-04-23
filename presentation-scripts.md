@@ -2,11 +2,11 @@
 
 ## 1. Introduction
 
-Good [morning/afternoon], I'm Yan Wai Pan, and I'm here on behalf of our team to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
+Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
 _Alternative Introduction:_
 
-Good [morning/afternoon], my name is Yan Wai Pan. I'm representing our team to share our group coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
+Greetings, my name is Yan Wai Pan. I'm representing our team to share our group coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
 
 ## 2. Roles Overview
 
@@ -16,7 +16,7 @@ Our system supports five distinct roles:
 - Faculty Marketing Coordinator – who manages contribution within their faculty.
 - University Marketing Manager – who can see all selected contributions.
 - Administrator – who configures system settings such as submission deadlines and t&c.
-- Guest Viewers – who can view selected contributions by faculty before publication.
+- Guest Viewers – who can view selected contributions by faculty
 
 Each role has its own access level, with permissions that match their tasks.
 
@@ -186,7 +186,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Registration
 - **Demo**: Form validation, register
-- **Script**: Guests can register to view selected contributions. The system checks the form for missing information. And admins have to check the filled user information for approval.
+- **Script**: Guests can register to view selected contributions. During registration, the system checks the form for missing information
 
 #### Authentication
 
@@ -198,7 +198,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contributions
 - **Demo**: Contributions view, contribution details view
-- **Script**: Guests can browse published contributions and open each one to read it in full. Filters and pagination make it easier to find specific content.
+- **Script**: Guests can browse published contributions and open each one to read it in full.
 
 ### Notes
 
