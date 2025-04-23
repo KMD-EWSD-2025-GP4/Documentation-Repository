@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
+Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (group name) to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
 _Alternative Introduction:_
 
@@ -34,7 +34,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: All contribution
 - **Demo**: Contributions view, contribution details view
-- **Script**: Here, the student can view all the submitted contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
+- **Script**: Here, the student can view all the selected contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
 
 #### New Contribution Form
 
@@ -82,7 +82,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 #### Guest Management
 
-- **Screen**: Guest reports <guest mean students right?>
+- **Screen**: Guest reports 
 - **Demo**: Login information view, filters, pagination
 - **Script**: Coordinators can also view guest login records. These can be filtered and browsed using the same pagination system.
 
@@ -98,7 +98,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: All select contributions
 - **Demo**: Contributions view, filters, contribution details view, Download Zip
-- **Script**: The manager can browse through selected contributions across all faculties, apply filters, and open each one to view more details. However, they cannot make any changes to the content.
+- **Script**: The manager can browse through selected contributions across all faculties, apply filters, and open each one to view more details. However, they cannot make any changes to the contributions content.
 
 #### File Management
 
@@ -110,13 +110,13 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contributions report
 - **Demo**: Contributions chart view
-- **Script**: This chart shows the number of selected contributions from each faculty over time.
+- **Script**: This chart shows the percent of selected contributions from each faculty over time.
 
 #### Contributor Statistics
 
 - **Screen**: Contributors report
 - **Demo**: Contributors chart view
-- **Script**: And this one displays how many individual students contributed each year, grouped by faculty.
+- **Script**: And this one displays how many individual students contributed each year in percent, grouped by faculty.
 
 ### 3.4. Admin
 
@@ -136,7 +136,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Edit user registration
 - **Demo**: Edit user, show updated view
-- **Script**: Admins can also update user information. Changes are reflected immediately after saving.
+- **Script**: Admins can see the user information details or update user information. Changes are reflected immediately after saving.
 
 #### Academic Year Control
 
@@ -154,13 +154,13 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Edit academic year & academic year
 - **Demo**: Edit new academic year, show updated view, delete academic year, show updated view
-- **Script**: They can also update or delete existing academic years. Any changes appear right away.
+- **Script**: In this page, details of academic year can be viewd. Admin can also update or delete existing academic years. Any changes appear right away.
 
 #### Faculty Administration
 
 - **Screen**: Faculty management, new faculty year registration & edit faculty year
 - **Demo**: Filters, pagination, export CSV, navigate to create page, form validation, create new faculty year, show updated view, navigate to edit page, edit new faculty year, show updated view
-- **Script**: Similar features are available for managing faculties — including filtering, adding, editing, and deleting entries.
+- **Script**: Similar features are available for managing faculties — including filtering, adding, viewing details, editing, and deleting entries.
 
 #### Faculty Management
 
@@ -186,7 +186,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Registration
 - **Demo**: Form validation, register
-- **Script**: Guests can register to view selected contributions. During registration, the system checks the form for missing information
+- **Script**: Guests can register to view selected contributions of their preferred faculty. During registration, the system checks the form for missing information. 
 
 #### Authentication
 
@@ -198,7 +198,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contributions
 - **Demo**: Contributions view, contribution details view
-- **Script**: Guests can browse published contributions and open each one to read it in full.
+- **Script**: Guests can browse published contributions and open each one to read it in detail.
 
 ### Notes
 
