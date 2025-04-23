@@ -1,6 +1,6 @@
 # University Magazine Portal Presentation Script
 
-## 1. Introduction (around 45 sec)
+## 1. Introduction
 
 Good [morning/afternoon], I'm Yan Wai Pan, and I'm here on behalf of our team to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
@@ -8,7 +8,7 @@ _Alternative Introduction:_
 
 Good [morning/afternoon], my name is Yan Wai Pan. I'm representing our team to share our group coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
 
-## 2. Roles Overview (around 1 min)
+## 2. Roles Overview
 
 Our system supports five distinct roles:
 
@@ -20,7 +20,7 @@ Our system supports five distinct roles:
 
 Each role has its own access level, with permissions that match their tasks.
 
-## 3. Features Demo with Screencast (around 6 min)
+## 3. Features Demo with Screencast
 
 ### 3.1. Student Role
 
