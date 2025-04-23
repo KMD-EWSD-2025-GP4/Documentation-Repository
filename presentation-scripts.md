@@ -6,7 +6,7 @@ Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (group name) to
 
 _Alternative Introduction:_
 
-Greetings, my name is Yan Wai Pan. I'm representing our team to share our group coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
+Greetings, my name is Yan Wai Pan. I'm representing our team to share our group - (group name) coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
 
 ## 2. Roles Overview
 
