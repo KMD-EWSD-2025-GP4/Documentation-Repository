@@ -36,6 +36,12 @@ Each role has its own access level, with permissions that match their tasks.
 - **Demo**: Contributions view, contribution details view
 - **Script**: Here, the student can view all the submitted contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
 
+#### Email Notification
+
+- **Screen**: Email inbox screen
+- **Demo**: Email view
+- **Script**: The system sends an email to the Marketing Coordinator after a contribution is successfully created.
+
 #### New Contribution Form
 
 - **Screen**: New contribution
@@ -65,8 +71,8 @@ Each role has its own access level, with permissions that match their tasks.
 #### Contribution Review
 
 - **Screen**: Contribution details
-- **Demo**: Comment, select, reject (and updated view)
-- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution for publication or reject it. The status updates immediately after taking action.
+- **Demo**: Comment, Email View, select, reject (and updated view)
+- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution for publication or reject it. And when the Marketing Coordinator comments on a student’s contribution, the system sends the student an email. The status updates immediately after taking action.
 
 #### Analytics Dashboard
 
