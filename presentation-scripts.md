@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (group name) to present our version of the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
+Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (Group 4) to present our version of the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
 _Alternative Introduction:_
 
