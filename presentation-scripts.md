@@ -2,11 +2,11 @@
 
 ## 1. Introduction
 
-Good [morning/afternoon], I'm Yan Wai Pan, and I'm here on behalf of our team to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
+Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (Group 4) to present our version of the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
 _Alternative Introduction:_
 
-Good [morning/afternoon], my name is Yan Wai Pan. I'm representing our team to share our group coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
+Greetings, my name is Yan Wai Pan. I'm representing our team to share our group - (group name) coursework project which is the University Magazine Portal. It functions as a protected web system which offers users a convenient way to manage student submissions before magazine publication. The project was developed using agile scrum methodology and I will explain its essential features together with implemented roles.
 
 ## 2. Roles Overview
 
@@ -16,7 +16,7 @@ Our system supports five distinct roles:
 - Faculty Marketing Coordinator – who manages contribution within their faculty.
 - University Marketing Manager – who can see all selected contributions.
 - Administrator – who configures system settings such as submission deadlines and t&c.
-- Guest Viewers – who can view selected contributions by faculty before publication.
+- Guest Viewers – who can view selected contributions by faculty
 
 Each role has its own access level, with permissions that match their tasks.
 
@@ -34,7 +34,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: All contribution
 - **Demo**: Contributions view, contribution details view
-- **Script**: Here, the student can view all the submitted contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
+- **Script**: Here, the student can view all the selected contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
 
 #### Email Notification
 
@@ -60,7 +60,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Login screen
 - **Demo**: Login
-- **Script**: I'm logging in as a marketing coordinator, who can manages submitted contribution for his faculty.
+- **Script**: We're logging in as a marketing coordinator, who can manages submitted contribution for his faculty.
 
 #### Contributions Management
 
@@ -71,8 +71,8 @@ Each role has its own access level, with permissions that match their tasks.
 #### Contribution Review
 
 - **Screen**: Contribution details
-- **Demo**: Comment, Email View, select, reject (and updated view)
-- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution for publication or reject it. And when the Marketing Coordinator comments on a student’s contribution, the system sends the student an email. The status updates immediately after taking action.
+- **Demo**: Comment, Email view, select, reject (and updated view)
+- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution or reject it. Let's try to leave a feedback via a comment. Once the comment is submitted, the student is notified via email. They can view the comment and also send a reply. Now, we'll select the contribution for publication. The status updates immediately after taking action.
 
 #### Analytics Dashboard
 
@@ -88,7 +88,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 #### Guest Management
 
-- **Screen**: Guest reports <guest mean students right?>
+- **Screen**: Guest reports
 - **Demo**: Login information view, filters, pagination
 - **Script**: Coordinators can also view guest login records. These can be filtered and browsed using the same pagination system.
 
@@ -104,7 +104,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: All select contributions
 - **Demo**: Contributions view, filters, contribution details view, Download Zip
-- **Script**: The manager can browse through selected contributions across all faculties, apply filters, and open each one to view more details. However, they cannot make any changes to the content.
+- **Script**: The manager can browse through selected contributions across all faculties, apply filters, and open each one to view more details. However, they cannot make any changes to the contributions content.
 
 #### File Management
 
@@ -116,13 +116,13 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contributions report
 - **Demo**: Contributions chart view
-- **Script**: This chart shows the number of selected contributions from each faculty over time.
+- **Script**: This chart shows the percent of selected contributions from each faculty over time.
 
 #### Contributor Statistics
 
 - **Screen**: Contributors report
 - **Demo**: Contributors chart view
-- **Script**: And this one displays how many individual students contributed each year, grouped by faculty.
+- **Script**: And this one displays how many individual students contributed each year in percent, grouped by faculty.
 
 ### 3.4. Admin
 
@@ -142,7 +142,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Edit user registration
 - **Demo**: Edit user, show updated view
-- **Script**: Admins can also update user information. Changes are reflected immediately after saving.
+- **Script**: Admins can see the user information details or update user information. Changes are reflected immediately after saving.
 
 #### Academic Year Control
 
@@ -160,13 +160,13 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Edit academic year & academic year
 - **Demo**: Edit new academic year, show updated view, delete academic year, show updated view
-- **Script**: They can also update or delete existing academic years. Any changes appear right away.
+- **Script**: In this page, details of academic year can be viewd. Admin can also update or delete existing academic years. Any changes appear right away.
 
 #### Faculty Administration
 
 - **Screen**: Faculty management, new faculty year registration & edit faculty year
 - **Demo**: Filters, pagination, export CSV, navigate to create page, form validation, create new faculty year, show updated view, navigate to edit page, edit new faculty year, show updated view
-- **Script**: Similar features are available for managing faculties — including filtering, adding, editing, and deleting entries.
+- **Script**: Similar features are available for managing faculties — including filtering, adding, viewing details, editing, and deleting entries.
 
 #### Faculty Management
 
@@ -192,7 +192,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Registration
 - **Demo**: Form validation, register
-- **Script**: Guests can register to view selected contributions. The system checks the form for missing information. And admins have to check the filled user information for approval.
+- **Script**: Guests can register to view selected contributions of their preferred faculty. During registration, the system checks the form for missing information.
 
 #### Authentication
 
@@ -204,7 +204,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contributions
 - **Demo**: Contributions view, contribution details view
-- **Script**: Guests can browse published contributions and open each one to read it in full. Filters and pagination make it easier to find specific content.
+- **Script**: Guests can browse published contributions and open each one to read it in detail.
 
 ### Notes
 
@@ -221,4 +221,6 @@ Each role has its own access level, with permissions that match their tasks.
 
 Our team worked collaboratively using agile scrum, with defined sprints, user stories, and regular meetings. We maintained documentation which covered our testing phase and our design choices as well as our backlog items. The completed system provides device accessibility and role-based capabilities for large institutions to use.
 
-Thank you for your time — we believe this system represents a worthy management solution for student publications that scales effectively.
+We believe this system represents a worthy management solution for student publications that scales effectively.
+
+Thank you for your time. Goodbye.
