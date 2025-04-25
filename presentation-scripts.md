@@ -36,17 +36,17 @@ Each role has its own access level, with permissions that match their tasks.
 - **Demo**: Contributions view, contribution details view
 - **Script**: Here, the student can view all the selected contributions of his faculty (mention faculty name). They can also click on each item to see more detailed information.
 
-#### Email Notification
-
-- **Screen**: Email inbox screen
-- **Demo**: Email view
-- **Script**: The system sends an email to the Marketing Coordinator after a contribution is successfully created.
-
 #### New Contribution Form
 
 - **Screen**: New contribution
 - **Demo**: Form validation, terms & condition, create contribution
 - **Script**: To submit a new contribution, the student must first fill all the required fields. If any required field is left empty, the form shows a warning. After filling in everything correctly, the student must accept terms and conditions. Once submitted, the system automatically sends a notification email to the faculty's marketing coordinator.
+
+#### Email Notification
+
+- **Screen**: Email inbox screen
+- **Demo**: Email view
+- **Script**: The system sends an email to the Marketing Coordinator after a contribution is successfully created.
 
 #### My Contributions Page
 
