@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (group name) to present our group coursework project — the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
+Greetings, I'm Yan Wai Pan, and I'm here on behalf of our team - (group name) to present our version of the University Magazine Portal. It's a secure, responsive, and role-based web platform that streamlines the process of collecting, reviewing, and publishing student contributions for our university's annual magazine. We built this using agile scrum methodology, and I'll walk you through the key features and roles we implemented.
 
 _Alternative Introduction:_
 
@@ -54,7 +54,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Login screen
 - **Demo**: Login
-- **Script**: I'm logging in as a marketing coordinator, who can manages submitted contribution for his faculty.
+- **Script**: We're logging in as a marketing coordinator, who can manages submitted contribution for his faculty.
 
 #### Contributions Management
 
@@ -66,7 +66,7 @@ Each role has its own access level, with permissions that match their tasks.
 
 - **Screen**: Contribution details
 - **Demo**: Comment, select, reject (and updated view)
-- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution for publication or reject it. The status updates immediately after taking action.
+- **Script**: On this page, the coordinator can read the article, leave a comment for the student, and either select the contribution or reject it. Let's try to leave a feedback via a comment. Once the comment is submitted, the student is notified via email. They can view the comment and also send a reply. Now, we'll select the contribution for publication. The status updates immediately after taking action.
 
 #### Analytics Dashboard
 
@@ -215,4 +215,6 @@ Each role has its own access level, with permissions that match their tasks.
 
 Our team worked collaboratively using agile scrum, with defined sprints, user stories, and regular meetings. We maintained documentation which covered our testing phase and our design choices as well as our backlog items. The completed system provides device accessibility and role-based capabilities for large institutions to use.
 
-Thank you for your time — we believe this system represents a worthy management solution for student publications that scales effectively.
+We believe this system represents a worthy management solution for student publications that scales effectively.
+
+Thank you for your time. Goodbye.
